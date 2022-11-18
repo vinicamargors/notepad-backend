@@ -11,3 +11,5 @@ Backend da minha aplicação web, um site de anotações integrado ao um banco d
 Para funcionamento perfeito, é necessário a configuração do seu banco de dados, no arquivo dbConfig.js. 
 
 ### Ainda sob desenvolvimento e correção de bugs
+
+<a href="https://github.com/vinicamargors/notepad-frontend"> Acesse o frontend da minha aplicação </a>
