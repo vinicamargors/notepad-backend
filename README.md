@@ -7,4 +7,6 @@ Backend da minha aplicação web, um site de anotações integrado ao um banco d
 - MongoDB
 - Nodemon
 
+## Necessário instalar o Node.js em sua máquina e inicializar suas dependências como Express.
+
 ### Ainda sob desenvolvimento e correção de bugs
