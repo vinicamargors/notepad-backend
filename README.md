@@ -4,9 +4,10 @@ Backend da minha aplicação web, um site de anotações integrado ao um banco d
 ## Tecnologias utilizadas:
 - Node.js
 - Express.js
-- MongoDB
+- MongoDB 
 - Nodemon
 
 ## Necessário instalar o Node.js em sua máquina e inicializar suas dependências como Express.
+Para funcionamento perfeito, é necessário a configuração do seu banco de dados, no arquivo dbConfig.js. 
 
 ### Ainda sob desenvolvimento e correção de bugs
