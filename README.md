@@ -1,6 +1,6 @@
 # notepad-backend
-Backend da minha aplicação web, um site de anotações integrado ao um banco de dados não-relacional. 
-
+Backend da minha aplicação web, um site de anotações integrado ao um banco de dados não-relacional. <br>
+## Trata-se de um estudo de JavaScript Fullstack, por isso o arquivo está comentado. <br>
 ## Tecnologias utilizadas:
 - Node.js
 - Express.js
