@@ -8,8 +8,9 @@ Backend da minha aplicação web, um site de anotações integrado ao um banco d
 - Nodemon
 
 ## Necessário instalar o Node.js em sua máquina e inicializar suas dependências como Express.
-Para funcionamento perfeito, é necessário a configuração do seu banco de dados, no arquivo dbConfig.js. 
-Inicie o ambiente backend no terminal da pasta raiz com o comando: npm run dev
+- Para funcionamento perfeito, é necessário a configuração do seu banco de dados, no arquivo dbConfig.js. 
+
+- Inicie o ambiente backend no terminal da pasta raiz com o comando: npm run dev
 
 ### Ainda sob desenvolvimento e correção de bugs
 
